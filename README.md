@@ -3,7 +3,7 @@ ChromaBeat
 
 1.Open the python file with 3.10 Interpreter 
 
-2.Open new terminal, input: streamlit run "merge_page.py"
+2.Open new terminal, input: streamlit run "ChromaBeat.py"
 
 3.A streamlit app page will pop up
 
